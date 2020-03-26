@@ -5,4 +5,4 @@ _site
 node_modules
 dist
 aero-deploy.tar.gz
-.public
+public
