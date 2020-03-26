@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "hugo serve -s src",
-    "deploy": "npm run build && aero deploy"
+    "build": "hugo",
+    "serve": "hugo serve"
   },
   "keywords": [],
   "author": "",
