@@ -1,0 +1,13 @@
+{
+  "name": "3dppe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "hugo serve -s src",
+    "deploy": "npm run build && aero deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
