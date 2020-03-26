@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Printed Respirators on 3d PPE</title>
+    <link>/</link>
+    <description>Recent content in 3D Printed Respirators on 3d PPE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ Blackfriday Chroma Smartcrop Cobra Viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
+    </item>
+    
+    <item>
+      <title>Filter Material</title>
+      <link>/filter/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/filter/</guid>
+      <description>The masks use HEPA filter material. HEPA filter material removes 99.97% (ASME, U.S. DOE) of particles whose diameter is equal to 0.3 μm which makes it similar to P100 filters, which exceed the 95% filtration of an N95 mask recommended by the CDC and WHO for protection from airborne transmission of COVID-19.
+The filter material in these photos was taken from a vacuum filter readily available at a local home improvement store.</description>
+    </item>
+    
+    <item>
+      <title>Montana Mask</title>
+      <link>/montana/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/montana/</guid>
+      <description>Montana Mask The first mask design a slight modification of plans by Spencer Zaugg a dentist in Montana, who generously shared his designs.
+plans</description>
+    </item>
+    
+    <item>
+      <title>Resus Mask</title>
+      <link>/resus/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/resus/</guid>
+      <description>Montana Mask The first mask design a slight modification of plans by Spencer Zaugg a dentist in Montana, who generously shared his designs.
+plans</description>
+    </item>
+    
+  </channel>
+</rss>
