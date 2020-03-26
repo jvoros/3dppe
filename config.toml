@@ -13,12 +13,8 @@ theme = "ghostwriter"
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
     twitter = "https://twitter.com/VorosMD"
-    
-
-# [[params.socialIcons]]
-#   icon = "fa-twitter"
-#   title = "Twitter"
-#   url = "#"
+	sharegoogleplus = false
+	shareLinkedIn = false
 
 [[menu.main]]
 	identifier = "about"
