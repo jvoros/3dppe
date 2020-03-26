@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "3d PPE"
 theme = "ghostwriter"
