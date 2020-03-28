@@ -8,6 +8,6 @@ title: "About"
 
 **Jeremy Voros** is an Emergency Medicine physician in Salt Lake City, Utah.
 
-[Collaborate with us on Slack](https://join.slack.com/t/montanamaskmodifiers/shared_invite/zt-d4qpbwwk-ZFf0_d0rlbezTHCorIIXCA)
+[<i class="fab fa-slack-hash"></i> Collaborate with us on Slack](https://join.slack.com/t/montanamaskmodifiers/shared_invite/zt-d4qpbwwk-ZFf0_d0rlbezTHCorIIXCA)
 
-[Reach us on Twitter](https://twitter.com/VorosMD)
+[<i class="fa fa-twitter"></i> Reach us on Twitter](https://twitter.com/VorosMD)

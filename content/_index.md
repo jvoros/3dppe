@@ -2,6 +2,7 @@
 title: "3D Printed Respirators"
 date: 2019-05-28
 layout: single
+description: "Trying to meet the needs for PPE"
 ---
 
 
@@ -13,7 +14,7 @@ This is our progress so far.
 
 # Montana Mask
 
-![montana mask](montanamask.jpg)
+![montana mask](montana/montana-mask-strap-sm.jpeg)
 
 This mask design is a slight modification of plans by [Spencer Zaugg](https://longliveyoursmile.com/3d-printable-mask-for-covid-19/) a dentist in Montana, who generously shared his designs. We have made it available in three sizes 83%, 90% and 100% that seem to accommodate a wide range of face shapes and sizes.
 

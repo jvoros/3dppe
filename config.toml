@@ -1,18 +1,19 @@
-baseURL = "https://3dppe.netlify.com"
+baseURL = "https://montanamask.netlify.com"
 languageCode = "en-us"
-title = "3d PPE"
+title = "Montana Mask"
 theme = "ghostwriter"
+Description = "Build details on Montana Mask a 3D printed respirator for experimental use in a time of PPE shortages for healthcare workers amid COVID19 pandemic."
+
 
 [Params]
 	# Blog description at the top of the homepage. Supports markdown.
 	# description = "Trying to get you PPE however we can."
     intro = true
-    headline = "My headline"
-    description = "My description"
-
+    
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
     twitter = "https://twitter.com/VorosMD"
+	slack = "https://join.slack.com/t/montanamaskmodifiers/shared_invite/zt-d4qpbwwk-ZFf0_d0rlbezTHCorIIXCA"
 	sharegoogleplus = false
 	shareLinkedIn = false
 

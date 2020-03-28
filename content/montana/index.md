@@ -2,6 +2,7 @@
 title: "Montana Mask"
 date: 2019-05-28
 type: "single"
+Description: "Build details on Montana Mask a 3D printed respirator for experimental use in a time of PPE shortages for healthcare workers amid COVID19 pandemic."
 ---
 
 The first mask design a slight modification of plans by [Spencer Zaugg](https://longliveyoursmile.com/3d-printable-mask-for-covid-19/) a dentist in Montana, who generously shared his designs.
@@ -67,4 +68,3 @@ Our next step will be to cut a portion out of the top filter, so that the gaps a
 This approach has not yet been fit tested.
 
 ![gasket-filter](gasket-filter.jpeg)
-![gasket-face](gasket-face.jpeg)
