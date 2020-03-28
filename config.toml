@@ -17,12 +17,6 @@ theme = "ghostwriter"
 	shareLinkedIn = false
 
 [[menu.main]]
-	identifier = "about"
-	name = "About"
-	url = "/about/"
-	weight = 10 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
-
-[[menu.main]]
 	identifier = "home"
 	name = "Home"
 	url = "/"
@@ -46,3 +40,9 @@ theme = "ghostwriter"
 	name = "Filter Material"
 	url = "/filter/"
 	weight = 4 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
+
+[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = 11 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.

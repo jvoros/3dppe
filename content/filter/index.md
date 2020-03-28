@@ -13,4 +13,4 @@ The filter material in these photos was taken from a vacuum filter readily avail
 
 ## Cut N95s or Filter Patches
 
-[On his website](https://longliveyoursmile.com/3d-printable-mask-for-covid-19/), Dr. Zaugg recommends cutting up a single mask into 6 pieces or by ordering custom filter patches (which exceed industry standards) from [flowmarkhightech.com](https://www.flowmarkhightech.com/). We have not used the Flowmark/HighTech material.
+[On his website](https://longliveyoursmile.com/3d-printable-mask-for-covid-19/), Dr. Zaugg recommends cutting up a single mask into 6 pieces or by ordering custom filter patches from [flowmarkhightech.com](https://www.flowmarkhightech.com/). We have not used the Flowmark/HighTech material.
